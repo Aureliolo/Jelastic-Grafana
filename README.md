@@ -1,5 +1,7 @@
 # Grafana JPS to install Enterprise or OSS Edition
 
+NEW VERSION WHICH INCLUDES PROMETHEUS: https://github.com/panslothda/Jelastic-Grafana-Prometheus
+
 When you launch the JPS you have 2 Options, version and if you want a public IP + Let's Encrypt
 
 On the version tab you can select between Enterprise and OSS Edition, see:
