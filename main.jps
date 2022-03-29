@@ -1,6 +1,6 @@
 type: install 
 name: Grafana
-baseUrl: https://raw.githubusercontent.com/panslothda/Jelastic-Grafana/main
+baseUrl: https://raw.githubusercontent.com/Aureliolo/Jelastic-Grafana/main
 logo: images/grafana_logo.png
 homepage: https://grafana.com/
 description: 
@@ -123,7 +123,7 @@ addons:
     actions:
       update:
         - log: launching grafana update JPS
-        - install: https://raw.githubusercontent.com/panslothda/Jelastic-Grafana/main/scripts/update-grafana.jps
+        - install: https://raw.githubusercontent.com/Aureliolo/Jelastic-Grafana/main/scripts/update-grafana.jps
           skipEmail: true
 
 success:

@@ -2,7 +2,7 @@
 
 :warning: :warning: :warning: :warning: :warning:  
 THIS IS NO LONGER MAINTAINED  
-NEW VERSION WHICH INCLUDES PROMETHEUS: https://github.com/panslothda/Jelastic-Grafana-Prometheus  
+NEW VERSION WHICH INCLUDES PROMETHEUS: https://github.com/Aureliolo/Jelastic-Grafana-Prometheus  
 :warning: :warning: :warning: :warning: :warning:  
 
 When you launch the JPS you have 2 Options, version and if you want a public IP + Let's Encrypt
@@ -16,7 +16,7 @@ If you don't select this option it will enable Platform SSL and you wil have to 
 # Installation
 Simply import this link using the Jelastic JPS Import function:
 ```
-https://raw.githubusercontent.com/panslothda/Jelastic-Grafana/main/main.jps
+https://raw.githubusercontent.com/Aureliolo/Jelastic-Grafana/main/main.jps
 ```
 
 Or copy the content of main.jps into the import window.
